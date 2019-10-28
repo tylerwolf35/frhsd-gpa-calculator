@@ -15,4 +15,4 @@ for Python with the distribution you have chosen.
 ### What I plan to add:
 * Automatically calculate credit from class
 * Use letter instead of weight
-* Web App
+* Web app
